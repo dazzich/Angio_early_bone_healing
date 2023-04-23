@@ -1,0 +1,4 @@
+
+g++ -o Model_Chiara.exe Create_temporal_FEM.cpp Read_cell_matrix.cpp Initialize_model.cpp main.cpp Read_displacements.cpp Update_model.cpp Write_batch_file.cpp Blood_vessels.cpp Direction_strains.cpp Direction_growth_1.cpp Direction_growth_2.cpp Direction_growth_3.cpp Direction_growth_4.cpp Direction_growth_5.cpp Direction_growth_6.cpp Direction_growth_7.cpp Direction_growth_8.cpp Branching.cpp Branch_dir1.cpp Branch_dir2.cpp Branch_dir3.cpp Branch_dir4.cpp Branch_dir5.cpp Branch_dir6.cpp Branch_dir7.cpp Branch_dir8.cpp Proliferation_apoptosis.cpp Write_results.cpp Write_data_vessels.cpp Write_results_blood_vessel.cpp count_ec.cpp 
+
+
